@@ -1,0 +1,22 @@
+{
+  "name": "متجر البائع",
+  "short_name": "المتجر",
+  "description": "نظام إدارة متجر متكامل - بيع، مخزون، زبائن، فواتير",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#2c3e50",
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait",
+  "categories": ["business", "shopping"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": []
+}
